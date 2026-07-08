@@ -1,4 +1,3 @@
-# Quill_project
 # Quill - Journal Landing Page
 
 A responsive landing page for a digital journaling application built while learning modern HTML and CSS.
@@ -33,4 +32,3 @@ The project helped me practice webpage structure, styling techniques, and respon
 - Reusable CSS components
 - Responsive units
 
-## Project Structure
