@@ -2,6 +2,8 @@
 
 A responsive landing page for a digital journaling application built while learning modern HTML and CSS.
 
+## Live Demo: https://ansh20777.github.io/Quill_project
+
 ## Overview
 
 Quill is a frontend project focused on creating a clean and responsive user interface.  
